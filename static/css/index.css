@@ -27,6 +27,15 @@ body {
   font-family: 'Google Sans', sans-serif;
 }
 
+#TLNR {
+  font-style: italic;
+  font-weight: bold;
+}
+
+#tpdiff{
+  font-style: italic;
+  color: rgb(205, 153, 166);
+}
 
 .publication-title {
 }
