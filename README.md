@@ -1,6 +1,6 @@
 # TPDiff
 
-This repository is the official implementation of [TPDiff](). We will release the code soon.
+This repository is the official implementation of [TPDiff](https://arxiv.org/abs/2503.09566). We will release the code soon.
 
 <em> TPDiff reduces the training cost of video diffusion models by 50% and accelerates inference by 1.5 times. </em>
 
